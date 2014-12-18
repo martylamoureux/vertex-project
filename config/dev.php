@@ -7,7 +7,7 @@ return [
 			'host' =>		'localhost',
 			'username' =>	'root',
 			'password' =>	'root',
-			'dbname' =>		'uflf_database',
-			'prefix' =>		'brigademt_',
+			'dbname' =>		'vertex-test',
+			'prefix' =>		'',
 		]
 ];
